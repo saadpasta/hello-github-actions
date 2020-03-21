@@ -6,7 +6,7 @@ npm install
 
 npm install gh-pages
 
-git checkout -B 'gh-pages'
+git switch -c 'gh-pages'
 
 npm run build
 
