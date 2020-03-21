@@ -4,6 +4,8 @@ node -v
 
 npm install 
 
+apt install git
+
 git switch -c 'gh-pages'
 
 npm run build
