@@ -2,6 +2,10 @@
 
 node -v
 
+npm install 
+
+npm install gh-pages
+
 npm run build
 
 npm run deploy
